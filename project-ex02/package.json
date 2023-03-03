@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "douzone-math": "file:../douzone-math",
     "ej": "^1.0.4",
     "ejs": "^3.1.8"
   },
