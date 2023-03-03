@@ -41,4 +41,12 @@ Node Practice
             $ npm i ../douzone-math
 
 6. helloweb-ex01: 웹애플리케이션 만들어 보기(express 프레임워크 X)
+    npm i connect
+    npm i connect-route
 7. helloweb-ex02: 웹애플리케이션 만들어 보기(express 프레임워크 O)
+    npm i express
+    npm i ejs
+    npm i -D nodemon
+
+    package.json 에서 start 실행시키는 명령어 : $ npm start
+    package.json 에서 debug 실행시키는 명령어 : $ npm run debug

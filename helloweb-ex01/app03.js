@@ -1,5 +1,5 @@
 var connect = require('connect');
-const serveStatic = require('serve-static');
+var serveStatic = require('serve-static');
 
 var port=9090;
 var app = connect();
